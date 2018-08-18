@@ -1,1 +1,1 @@
-# git-training
+# git-training first edit for auto
